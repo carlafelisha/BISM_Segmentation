@@ -8,6 +8,8 @@ This MATLAB script processes Traction Force Microscopy (TFM) data and correspond
 3. **Stress Field Extraction**: Extract the stress field values in the defined regions around the spheroid.
 4. **Averaging of Values**: Calculate the average tensile and compressive stress values for the different regions at each timeframe.
 
+![Spheroid Regions](Images/Spheroid_Regions.png)
+
 ## Inputs
 - **Spheroid Image Sequence**: Folder containing a sequence of JPEG images of the spheroid.
 - **TFM Data**: Traction Force Microscopy data in PIV format.
